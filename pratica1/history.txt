@@ -1,0 +1,13 @@
+    1  ping www.google.com
+    2  ls
+    3  sudo raspi-config
+    4  neofetch
+    5  reboot
+    6  sudo apt update
+    7  sudo apt upgrade
+    8  sudo apt install neofetch
+    9  neofetch
+   10  pinout
+   11  history
+   12  ls
+   13  history > history.txt
