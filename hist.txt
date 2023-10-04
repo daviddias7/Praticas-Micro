@@ -1,0 +1,86 @@
+    1  sudo passwd root
+    2  reboot
+    3  sudo rasp-config
+    4  sudo raspi-config
+    5  sudo apt install neofetch
+    6  neofetch
+    7  pinout
+    8  sudo nano /etc/wpa_supplicant/wpa_supplicant.conf
+    9  ifconfig
+   10  history > "praticaII" 
+   11  ls
+   12  ls Downloads/
+   13  rm Downloads/SEL0630_Roteiro_pratica3.pdf 
+   14  ;s
+   15  ls
+   16  pip freeze
+   17  sudo apt-get update
+   18  sudo apt install python3-venv -y
+   19  python3 -m venv 1193
+   20  ls
+   21  source 1193/bin/activate
+   22  cd 1193/
+   23  ls
+   24  pip install gpiozero
+   25  pip install RPi.GPIO
+   26  pinout
+   27  cd pratica3/
+   28  ls
+   29  python3 pratica3_1.py
+   30  ls
+   31  python3 pratica3_1.py
+   32  python3 pratica3_2.py
+   33  pinout
+   34  python3 pratica3_2.py
+   35  source 1193/bin/activate
+   36  cd 1193/
+   37  ls
+   38  cd pratica3/
+   39  ls
+   40  pinout
+   41  python3 pratica3_2.py 
+   42  python3 pratica3_1.py 
+   43  python3 pratica3_2.py 
+   44  cd ..
+   45  cd Downloads/
+   46  ls
+   47  cd Adafruit_Python_DHT-master/
+   48  ls
+   49  cd ..
+   50  sudo python3 setup.py install
+   51  cd Adafruit_Python_DHT-master/
+   52  sudo python3 setup.py install
+   53  cd ..
+   54  cd 1193/
+   55  cd pratica3/
+   56  ls
+   57  pinout
+   58  python3 pratica3_3.py 
+   59  cd ..
+   60  cd Downloads/
+   61  ls
+   62  cd Adafruit_Python_DHT-master/
+   63  ls
+   64  sudo python3 setup.py install
+   65  python3 pratica3_3.py 
+   66  cd ..
+   67  cd 1193/pratica3/
+   68  ls
+   69  python3 pratica3_3.py 
+   70  python pratica3_3.py 
+   71  pip freeze
+   72  exit
+   73  cd Downloads/Adafruit_Python_DHT-master/
+   74  ls
+   75  sudo python3 setup.py install
+   76  cd ..
+   77  source 1193/bin/activate
+   78  cd 1193/pratica3/
+   79  ls
+   80  python3 pratica3_3.py 
+   81  pip install Adafruit-DHT
+   82  python3 pratica3_3.py 
+   83  pinout
+   84  python3 pratica3_3.py 
+   85  cd 1193/pratica3/
+   86  history > hist.txt
