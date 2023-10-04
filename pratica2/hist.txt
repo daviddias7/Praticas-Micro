@@ -1,0 +1,61 @@
+    1  ping www.google.com
+    2  ls
+    3  sudo raspi-config
+    4  neofetch
+    5  reboot
+    6  ifconfig
+    7  ls
+    8  rmdir oi_little_roger/
+    9  ls
+   10  sudo apt install neofetch
+   11  sudo apt update
+   12  sudo apt upgrade
+   13  sudo apt install neofetch
+   14  neofetch
+   15  pinout
+   16  history
+   17  ls
+   18  history > history.txt
+   19  ls
+   20  vim history.txt 
+   21  nano history.txt 
+   22  ifconfig
+   23  neofetch
+   24  pinout
+   25  clear
+   26  shutdown -h now
+   27  mkdir oi_little_roger
+   28  htop
+   29  cd oi_little_roger/
+   30  vim oi
+   31  mkdir  abacate
+   32  cd ..
+   33  ls
+   34  uname -r 
+   35  sudo apt install ntp && sudo service ntp restart
+   36  history
+   37  ls
+   38  source 1193
+   39  source 1193/bin/activate
+   40  ls
+   41  cd 1193
+   42  ls
+   43  cd pratica2
+   44  cd Pratica2/
+   45  ls
+   46  python3 led_blink2.py 
+   47  ls
+   48  python3 button.py 
+   49  python3 pratica2.py 
+   50  python3 button.py 
+   51  python3 pratica2.py 
+   52  cd ..
+   53  source 1193/bin/activate
+   54  cd 1193
+   55  cd Pratica2
+   56  python3 pratica2.py 
+   57  a
+   58  python3 pratica2.py 
+   59  clean
+   60  python3 pratica2.py 
+   61  history > hist.txt
