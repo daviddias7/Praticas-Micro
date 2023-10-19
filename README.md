@@ -34,3 +34,9 @@ Utilizando-se o sensor de movimento, foi desenvolvido um código no qual quando 
 
 ### Sensor de Temperatura e Umidade
 Utilizando o sensor DHT11 junto as bibliotecas RPi.GPIO e Adafruit_DHT foi possível realizar a medição de temperatura e umidade do sensor e imprimir no terminal esses valores.
+
+## Prática 4
+...
+
+## Prática 5
+...
