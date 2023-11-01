@@ -39,4 +39,6 @@ Utilizando o sensor DHT11 junto as bibliotecas RPi.GPIO e Adafruit_DHT foi poss�
 ...
 
 ## Prática 5
-...
+Para a primeira parte da prática, foi usado um módulo RFID para validação ou negação de tags.
+
+Na segunda parte da prática usou-se uma biblioteca para controle de uma câmera, com uma rede neural otimizada para reconhecimento facial.
